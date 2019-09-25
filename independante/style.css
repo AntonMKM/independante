@@ -1,0 +1,172 @@
+/* Menu et bandeau*/
+
+#menu a{
+    text-decoration:none;
+    color: white;
+}
+#menu {
+    background-color: #AB3116;
+    padding: 5px 0px 5px 0px;
+}
+ul {
+    border-bottom: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: white;
+    padding-top: 0px;
+}
+li { 
+    list-style: none;
+}
+#bandeau {
+    margin-top: 0px;
+    width: 100%;    
+}
+/* Fin menu et bandeau*/   
+#prochain {
+    margin-bottom: 0px;
+}
+#textehomere {
+    margin-top: 0px;
+}
+/* Présentation */
+#librairie {
+    margin-left: 40px;
+}
+#fremond {
+    margin-left: 40px;
+}
+/* Fin présentation */
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :50px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :50px;    
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :50px;    
+}
+p  {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :50px;
+}
+#titreaccueil {
+    color: #AB3116;
+    font-size: 26px;
+}
+.savoirplus {
+    margin-left: 50px;
+    text-decoration: none; color:#AB3116;
+    }
+/* Tableau */
+    table {
+    border: 1px solid #AB3116;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 50px;
+}
+th {
+    border: 1px solid #AB3116;
+}
+td {
+    border: 1px solid #AB3116;
+    text-align: center;
+}
+/* Fin du tableau*/
+#plan {
+    margin-left: 50px;
+}
+footer {
+    background-color: rgb(156, 152, 152);
+    height: 100px;
+    color: #AB3116;
+    margin-top: 50px;
+    font-size: 14px;
+}
+.adresse {
+    top: 30px;
+    left: 30%;
+    position: relative;
+}
+#p1 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+#p2 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+#p3 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+#p4 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+#p5 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+#p6 {
+    border: 1px dashed #AB3116;
+    height: 50px;
+    width: 50%;
+    padding: 15px 10px 15px 10px;
+    background-color: rgb(200, 200, 200);
+}
+
+#homere {
+    display: inline;
+    margin-right: 25px;
+    margin-left: 50px;
+}
+#mosaique {
+    display: inline;
+    margin-right: 25px;
+    }
+#sirene {
+    display: inline;
+    margin-right: 25px;
+}
+#grec {
+    display: inline;
+    margin-right: 25px;
+}
+.clear {
+    clear: both;
+}
+#surprise1 {
+    display: inline;
+    margin-right: 25px;
+    margin-left: 50px;
+}
+#post-modern {
+    display: inline;
+    margin-right: 25px;
+}
+#portrait {
+    display: inline;
+    margin-right: 25px;
+}
+#surprise2 {
+    display: inline;
+    margin-right: 25px;
+}
